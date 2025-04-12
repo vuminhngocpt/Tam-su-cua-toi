@@ -3,4 +3,4 @@
 📗 [Điều khoản sử dụng](https://github.com/vuminhngocpt/h-ng-d-n) các điều khoản mà bạn cần biết cũng như tuyên bố của tôi khi bạn sử dụng và truy cập trang web . code này
 
 
-    © 2025 Vu Minh Ngoc
+          ©2025 Vu Minh Ngoc
