@@ -10,7 +10,7 @@ Bằng cách truy cập và sử dụng trang web này, bạn đồng ý tuân t
 
 2. Mục đích của Trang web:
 
-Trang web cá nhân này được tạo ra cho [mục đích của trang web, ví dụ: chia sẻ thông tin cá nhân, trưng bày tác phẩm, blog cá nhân, v.v.]. Nội dung trên trang web này chỉ mang tính chất tham khảo và thông tin.
+Trang web cá nhân này được tạo ra cho [Mục đích chia sẻ trải nghiệm của Admin]. Nội dung trên trang web này chỉ mang tính chất tham khảo và thông tin.
 
 3. Quyền Sở hữu Trí tuệ:
 
@@ -42,13 +42,13 @@ Tôi có quyền sửa đổi hoặc cập nhật các Điều khoản này bấ
 
 9. Luật Điều chỉnh:
 
-Các Điều khoản này sẽ được điều chỉnh và giải thích theo luật pháp của [Quốc gia hoặc Khu vực của bạn] mà không liên quan đến các quy tắc xung đột luật pháp.
+Các Điều khoản này sẽ được điều chỉnh và giải thích theo luật pháp của [Việt Nam] mà không liên quan đến các quy tắc xung đột luật pháp.
 
 10. Liên hệ:
 
-Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với tôi qua [địa chỉ email hoặc phương thức liên hệ khác].
+Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với tôi qua [vuminhngocpt@gmail.com].
 
-Ngày có hiệu lực: [Ngày bạn muốn các điều khoản này có hiệu lực]
+Ngày có hiệu lực: [06:23 28/05/2025]
 
 
 
