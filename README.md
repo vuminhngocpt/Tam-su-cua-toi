@@ -1,4 +1,4 @@
-## xin chào 👋 bạn nên đọc các thông tin quan trọng này , đừng bỏ xót các thư mục nhé 
+## Thông Tin Quan Trọng ⚠️
 
 
 ###  [Điều Khoản Khác ](https://github.com/vuminhngocpt/h-ng-d-n)
