@@ -1,8 +1,8 @@
 ## xin chào 👋 bạn nên đọc các thông tin quan trọng này 
 
-📗 [Điều khoản sử dụng](https://github.com/vuminhngocpt/h-ng-d-n)
+###  [Điều khoản bổ sung cũ ](https://github.com/vuminhngocpt/h-ng-d-n)
 
-Bảng Điều Khoản Sử Dụng Trang Web Cá Nhân
+### Bảng Điều Khoản Sử Dụng Trang Web Cá Nhân
 
 1. Chấp nhận Điều khoản:
 
