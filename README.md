@@ -1,7 +1,7 @@
 ## Thông Tin Quan Trọng ⚠️
 
 
-###  [Điều Khoản Khác ](https://github.com/vuminhngocpt/h-ng-d-n)
+###  [Điều Khoản Sử Dụng Bản Gốc ](https://github.com/vuminhngocpt/h-ng-d-n)
 
 
 ### Bảng Điều Khoản Sử Dụng Trang Web Cá Nhân
