@@ -1,6 +1,8 @@
-## xin chào 👋 bạn nên đọc các thông tin quan trọng này 
+## xin chào 👋 bạn nên đọc các thông tin quan trọng này , đừng bỏ xót các thư mục nhé 
 
-###  [Điều khoản bổ sung cũ ](https://github.com/vuminhngocpt/h-ng-d-n)
+
+###  [Điều Khoản Khác ](https://github.com/vuminhngocpt/h-ng-d-n)
+
 
 ### Bảng Điều Khoản Sử Dụng Trang Web Cá Nhân
 
